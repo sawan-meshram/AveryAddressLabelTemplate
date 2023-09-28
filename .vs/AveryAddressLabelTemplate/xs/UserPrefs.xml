@@ -1,22 +1,14 @@
 ﻿<Properties StartupConfiguration="{9437E003-3E63-4318-96EC-6C39F577E2A4}|Default">
   <MonoDevelop.Ide.ItemProperties.AveryAddressLabelTemplate PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MicrosoftMailMerge/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AveryAddressLabelTemplate/Program.cs">
     <Files>
-      <File FileName="MicrosoftMailMerge/Program.cs" Line="6" Column="32" />
-      <File FileName="MicrosoftMailMerge/CsvReader.cs" Line="5" Column="36" />
-      <File FileName="MicrosoftMailMerge/Avery/AbstractAveryTemplate.cs" Line="2" Column="36" />
-      <File FileName="MicrosoftMailMerge/Avery/DocumentBuilder.cs" Line="6" Column="36" />
-      <File FileName="MicrosoftMailMerge/Avery/AveryAddressLabel.cs" Line="2" Column="36" />
-      <File FileName="MicrosoftMailMerge/Avery/AveryDocumentBuilder.cs" Line="4" Column="36" />
-      <File FileName="MicrosoftMailMerge/Avery/AveryNumber.cs" Line="2" Column="36" />
-      <File FileName="MicrosoftMailMerge/Mailing.cs" Line="2" Column="36" />
+      <File FileName="AveryAddressLabelTemplate/Program.cs" Line="23" Column="99" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AveryAddressLabelTemplate" expanded="True">
             <Node name="AveryAddressLabelTemplate" expanded="True">
-              <Node name="Avery" expanded="True" />
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

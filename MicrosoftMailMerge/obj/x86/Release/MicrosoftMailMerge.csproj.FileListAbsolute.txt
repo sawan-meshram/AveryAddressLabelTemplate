@@ -1,7 +1,0 @@
-/home/shatam-25/Projects/MicrosoftMailMerge/MicrosoftMailMerge/bin/Release/MicrosoftMailMerge.exe
-/home/shatam-25/Projects/MicrosoftMailMerge/MicrosoftMailMerge/bin/Release/Xceed.Document.NET.dll
-/home/shatam-25/Projects/MicrosoftMailMerge/MicrosoftMailMerge/bin/Release/Xceed.Words.NET.dll
-/home/shatam-25/Projects/MicrosoftMailMerge/MicrosoftMailMerge/obj/x86/Release/MicrosoftMailMerge.csprojAssemblyReference.cache
-/home/shatam-25/Projects/MicrosoftMailMerge/MicrosoftMailMerge/obj/x86/Release/MicrosoftMailMerge.csproj.CoreCompileInputs.cache
-/home/shatam-25/Projects/MicrosoftMailMerge/MicrosoftMailMerge/obj/x86/Release/MicrosoftMailMerge.csproj.CopyComplete
-/home/shatam-25/Projects/MicrosoftMailMerge/MicrosoftMailMerge/obj/x86/Release/MicrosoftMailMerge.exe

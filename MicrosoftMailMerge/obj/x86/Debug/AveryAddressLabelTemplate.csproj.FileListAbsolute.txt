@@ -1,9 +1,0 @@
-/home/shatam-25/Projects/MicrosoftMailMerge/MicrosoftMailMerge/bin/Debug/MicrosoftMailMerge.exe
-/home/shatam-25/Projects/MicrosoftMailMerge/MicrosoftMailMerge/bin/Debug/MicrosoftMailMerge.pdb
-/home/shatam-25/Projects/MicrosoftMailMerge/MicrosoftMailMerge/bin/Debug/Xceed.Document.NET.dll
-/home/shatam-25/Projects/MicrosoftMailMerge/MicrosoftMailMerge/bin/Debug/Xceed.Words.NET.dll
-/home/shatam-25/Projects/MicrosoftMailMerge/MicrosoftMailMerge/obj/x86/Debug/AveryAddressLabelTemplate.csprojAssemblyReference.cache
-/home/shatam-25/Projects/MicrosoftMailMerge/MicrosoftMailMerge/obj/x86/Debug/AveryAddressLabelTemplate.csproj.CoreCompileInputs.cache
-/home/shatam-25/Projects/MicrosoftMailMerge/MicrosoftMailMerge/obj/x86/Debug/AveryAddressLabelTemplate.csproj.CopyComplete
-/home/shatam-25/Projects/MicrosoftMailMerge/MicrosoftMailMerge/obj/x86/Debug/MicrosoftMailMerge.exe
-/home/shatam-25/Projects/MicrosoftMailMerge/MicrosoftMailMerge/obj/x86/Debug/MicrosoftMailMerge.pdb

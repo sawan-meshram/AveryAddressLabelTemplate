@@ -1,0 +1,6 @@
+/home/shatam-25/Projects/AveryAddressLabelTemplate/AveryAddressLabelTemplate/bin/Release/AveryAddressLabelTemplate.exe
+/home/shatam-25/Projects/AveryAddressLabelTemplate/AveryAddressLabelTemplate/bin/Release/Xceed.Document.NET.dll
+/home/shatam-25/Projects/AveryAddressLabelTemplate/AveryAddressLabelTemplate/bin/Release/Xceed.Words.NET.dll
+/home/shatam-25/Projects/AveryAddressLabelTemplate/AveryAddressLabelTemplate/obj/x86/Release/AveryAddressLabelTemplate.csproj.CoreCompileInputs.cache
+/home/shatam-25/Projects/AveryAddressLabelTemplate/AveryAddressLabelTemplate/obj/x86/Release/AveryAddressLabelTemplate.csproj.CopyComplete
+/home/shatam-25/Projects/AveryAddressLabelTemplate/AveryAddressLabelTemplate/obj/x86/Release/AveryAddressLabelTemplate.exe
