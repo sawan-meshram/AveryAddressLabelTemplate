@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9437E003-3E63-4318-96EC-6C39F577E2A4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MicrosoftMailMerge/Program.cs">
+    <Files>
+      <File FileName="MicrosoftMailMerge/Program.cs" Line="33" Column="86" />
+      <File FileName="MicrosoftMailMerge/CsvReader.cs" Line="22" Column="14" />
+      <File FileName="MicrosoftMailMerge/Avery/AbstractAveryTemplate.cs" Line="37" Column="82" />
+      <File FileName="MicrosoftMailMerge/Avery/DocumentBuilder.cs" Line="129" Column="112" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MicrosoftMailMerge" expanded="True">
+            <Node name="MicrosoftMailMerge" expanded="True">
+              <Node name="Packages" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MicrosoftMailMerge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
